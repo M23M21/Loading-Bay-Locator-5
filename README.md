@@ -1,14 +1,15 @@
-# Welcome to your Expo app 👋
+<<<<<<< HEAD
+# Loading-Bay-Locator-5
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+Welcome to the Loading Bay Locator project! This project is developed using [Expo](https://expo.dev) and was created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
 
-## Get started
+## Get Started
 
-1. Install dependencies
+1. **Install Dependencies**
 
    ```bash
    npm install
-   ```
+   
 
 2. Start the app
 
@@ -48,3 +49,20 @@ Join our community of developers creating universal apps.
 
 - [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
 - [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
+
+### Steps to Fix and Commit:
+
+1. **Copy and Paste** the corrected content into your `README.md` file.
+2. **Save the File.**
+3. **Stage and Commit the Changes:**
+   ```bash
+   git add README.md
+   git commit -m "Resolved merge conflicts in README.md"
+
+4. Push the Changes to GitHub:
+bash
+Copy code
+git push origin main
+=======
+# Loading-Bay-Locator-5
+>>>>>>> c96eb6d47bc996f87ff8b7b7801498a3164fdfe2
